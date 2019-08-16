@@ -1,4 +1,4 @@
-!usr/bin/bash
+#!usr/bin/bash
 #Jangan Di Recode Bangsat!!
 #Coding By AC1L WAS H3R3
 #YouTube MR 4444
