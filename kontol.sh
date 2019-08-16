@@ -15,7 +15,7 @@ st='\033[0m' #Stop
 toilet -f future "TEBAS WEBSITE" | lolcat
 echo $mer"=========================================="$st
 echo $i"Author : AC1L S34N"
-echo $i"Github : Https://github.com/tukangpulug199"
+echo $i"YouTube: MR 4444"
 echo $o"Tools  : Tebas Index"
 echo $mer"=========================================="$st
 sleep 4
@@ -39,7 +39,6 @@ echo $ku"NOTE : Web Vuln Sudah Saya Sediakan"
 echo $ku"       Jika Anda Punya Web Target Vuln Sendiri"
 echo $ku"       Silahkan Pakai Jangan Malu Malu"
 sleep 4
-echo $ku
 read -p"Masukan Nama script deface : " script;
 sleep 4
 read -p"Masukan Web yang ingin di Tebas : " web;
