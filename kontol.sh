@@ -19,6 +19,33 @@ echo $i"Github : Https://github.com/tukangpulug199"
 echo $o"Tools  : Tebas Index"
 echo $mer"=========================================="$st
 sleep 4
+echo ""
+echo $ku"List Web Vuln"
+echo $i"http://contsol.co.za"
+echo $i"http://colourfactory.co.za"
+echo $i"http://centraltech.co.za"
+echo $i"http://kevinbutho.com"
+echo $i"http://windmillsandporcupines.co.za"
+echo $i"http://floralandfresh.co.za"
+echo $i"http://itsengineering.co.za"
+echo $i"http://scnc.co.za"
+echo $i"http://prorepafrica.com"
+echo $i"http://ayk.co.za"
+echo $i"http://chillibitez.co.za"
+echo $i"http://chasingfantasia.com"
+echo $i"http://cblandscapes.co.za"
+echo $i"http://crimsonmonkeyweb.com"
+echo $i"http://xposurephotography.co.za" 
+echo $i"http://tcnig.co.za"
+echo $i"http://thehellenic.co.za"
+echo $i"ttp://valdicare.co.za"
+echo $i"http://bitsandpieces.co.za"
+echo $mer"===================================" $st
+sleep 5
+echo $i"NOTE : Web Vuln Sudah Saya Sediakan"
+echo $i"       Jika Anda Punya Web Target Vuln Sendiri"
+echo $i"       Silahkan Pakai Jangan Malu Malu"
+sleep 4
 echo $ku
 read -p"Masukan Nama script deface : " script;
 sleep 4
